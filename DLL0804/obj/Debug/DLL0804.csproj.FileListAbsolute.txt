@@ -1,0 +1,5 @@
+C:\Users\Tecnico\source\repos\DLL0804\DLL0804\bin\Debug\DLL0804.dll
+C:\Users\Tecnico\source\repos\DLL0804\DLL0804\bin\Debug\DLL0804.pdb
+C:\Users\Tecnico\source\repos\DLL0804\DLL0804\obj\Debug\DLL0804.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\DLL0804\DLL0804\obj\Debug\DLL0804.dll
+C:\Users\Tecnico\source\repos\DLL0804\DLL0804\obj\Debug\DLL0804.pdb
